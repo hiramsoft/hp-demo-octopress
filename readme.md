@@ -1,13 +1,13 @@
 Demonstration of Octopress and Hiram Pages
 =======
 
-This fork of Octopress has a few small changes to build and publish the sample blog a [Hiram Pages](https://www.hirampages.com) Bucket.
+This fork of Octopress has a few small changes to build and publish the sample blog to a [Hiram Pages](https://www.hirampages.com) Bucket.
 
 The original project is at [https://github.com/imathis/octopress](https://github.com/imathis/octopress).
 
 For example, it includes the [Hiram Pages Bridge](https://github.com/hiramsoft/hp-bridge) inline at *hp-bridge.html*.
 
-How to get an Octopress blocg working in your bucket:
+How to get an Octopress blog working in your bucket:
 
 1. Install Jekyll and Octopress like normal
 2. Install AWS CLI
